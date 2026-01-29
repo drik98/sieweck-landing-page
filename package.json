@@ -1,0 +1,35 @@
+{
+  "name": "@drik98/sieweck-landing-page",
+  "version": "1.0.0",
+  "description": "A landing page to redirect to several sub pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drik98/sieweck-landing-page.git"
+  },
+  "author": "Hendrik Sieweck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drik98/sieweck-landing-page/issues"
+  },
+  "homepage": "https://github.com/drik98/sieweck-landing-page#readme",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "check:types": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@nuxt/eslint": "^0.3.13",
+    "nuxt": "^3.12.4",
+    "vue": "^3.5.19"
+  },
+  "devDependencies": {
+    "sass": "^1.77.8",
+    "typescript": "^5.9.2",
+    "vue-tsc": "^3.0.6"
+  }
+}
