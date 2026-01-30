@@ -28,5 +28,9 @@ export default defineNuxtConfig({
     typeCheck: true,
   },
 
+  nitro: {
+    preset: "netlify-static",
+  },
+
   modules: ["@nuxt/eslint"],
 });
