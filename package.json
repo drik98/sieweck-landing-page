@@ -23,13 +23,13 @@
     "check:types": "nuxt typecheck"
   },
   "dependencies": {
-    "@nuxt/eslint": "^0.3.13",
-    "nuxt": "^3.12.4",
-    "vue": "^3.5.19"
+    "@nuxt/eslint": "^1.13.0",
+    "nuxt": "^4.3.0",
+    "vue": "^3.5.27"
   },
   "devDependencies": {
-    "sass": "^1.77.8",
-    "typescript": "^5.9.2",
-    "vue-tsc": "^3.0.6"
+    "sass": "^1.97.3",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.2.4"
   }
 }
