@@ -57,6 +57,7 @@ const profiles = [
     image: annaImg,
     imageAlt: "Anna Sieweck",
     links: [
+      { label: "Website", href: "https://anna.sieweck.de" },
       {
         label: "LinkedIn",
         href: "https://www.linkedin.com/in/anna-sieweck-b03120188/",
